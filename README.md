@@ -52,7 +52,7 @@ cd kinoman
 ```html
 index.html
 ```
-### В проекте переходим в файл .env.example и меняем логин и пароль на свой
+### В проекте переходим в файл .env.example, меняем логин и пароль на свой
 ```laravel
 DB_USERNAME=root
 DB_PASSWORD=
